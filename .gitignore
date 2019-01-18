@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+apidoc
+uploads
+yarn.lock
+.env
+notification.log
+.env.example.test-original
+.env.example
+.env.live
+.env.example.live
+.DS_Store
+newrelic_agent.log
